@@ -1,0 +1,6 @@
+#Membuat Variabel yang nilainya dapat di input
+a = input("Masukkan input: ")
+b = input("Masukkan input: ")
+#Untuk mengeluarkan nilai dari variabel
+print(a)
+print(b)
